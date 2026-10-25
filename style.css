@@ -1,0 +1,7 @@
+body { font-family: Georgia, "Times New Roman", serif; max-width: 720px; margin: 40px auto; padding: 0 18px; line-height: 1.65; color: #222; background: #fdfcf9; }
+nav { font-family: Arial, sans-serif; font-size: 14px; margin-bottom: 28px; }
+nav a { color: #555; text-decoration: none; }
+h1 { font-size: 30px; margin-bottom: 4px; }
+h2 { font-size: 19px; margin-top: 26px; }
+a { color: #1a5fb4; }
+.muted { color: #777; font-size: 14px; }
